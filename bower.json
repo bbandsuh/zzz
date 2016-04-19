@@ -1,0 +1,10 @@
+{
+  "name": "improvements",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "latest",
+    "angular-bootstrap": "latest",
+    "angular-ui-router": "latest",
+    "bootstrap": "latest"
+  }
+}
